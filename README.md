@@ -9,5 +9,5 @@
 
 ### Factory
 <p align="center">
-    <img alt="Git" src="./images/factory_önden.png" height="270" width="460">
+   <img alt="Git" src="./images/factory_1.png" >
 </p>
